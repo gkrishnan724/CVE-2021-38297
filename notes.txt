@@ -1,0 +1,2 @@
+&hello world = 0xf6c70
+hello world = 001d88a (search 001d888 for memory line)
